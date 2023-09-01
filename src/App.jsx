@@ -1,7 +1,7 @@
 import { useState } from "react";
 import Banner from "./components/Banner";
 import FormForCard from "./components/FormForCard";
-import Team from "./components/team";
+import Team from "./components/Team";
 
 function App() {
   const allTeams = [
